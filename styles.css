@@ -1,0 +1,137 @@
+#te  {
+    display:flex;
+    background-color: black;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    gap:10px;
+    height:700px;
+}
+p {
+
+    
+    padding:10px;
+    margin-top:5px;
+  
+}
+img{
+  height:120px;
+  width:180px;
+  border-radius: 9px;
+}
+#a{
+  height:170px;
+  background-color: black;
+  border:3px solid rgb(88, 86, 86);
+  border-radius:20px;
+}
+#a1{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a2{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a3{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a4{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a5{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a6{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a7{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a8{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a9{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a10{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a11{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a12{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a13{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a14{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a15{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a16{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a17{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+#a18{
+  background-color: black;
+  border:3px solid red;
+  border-radius:20px;
+}
+.node{
+  display: flex;
+  flex-direction: column;
+}
+.u2{
+  color:white;
+  margin-left:20px;
+
+}
+.u3{
+  height: 20px;
+  width:20px;
+  margin-top:-45px;  
+}
+.a18 {
+  display:flex;
+  color:red;
+  
+  
+}
